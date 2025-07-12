@@ -2,7 +2,7 @@
 
 A clean and responsive To-Do List web application with persistent storage using localStorage.
 
-## 🚀 Features
+## Features
 
 - ✅ Add new tasks
 - ✅ Mark tasks as completed
@@ -12,18 +12,18 @@ A clean and responsive To-Do List web application with persistent storage using 
 - ✅ Responsive design with Tailwind CSS
 - ✅ Clean and modern UI
 
-## 💻 Technologies Used
+## Technologies Used
 
 - HTML5
 - Tailwind CSS (CDN)
 - Vanilla JavaScript
-- localStorage API
+- localStorage
 
 ## Live Demo
 
-[https://Mosjdeed.github.io/todo-list-app/]
+[Live demo](https://Mosjdeed.github.io/todo-list-app/)
 
-## 🛠️ Installation & Usage
+## Installation & Usage
 
 1. Clone the repository:
 ```bash
