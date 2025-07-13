@@ -164,9 +164,9 @@ function filterTasks(filterType) {
     // Update button styles
     filterButtons.forEach(btn => {
         if (btn.dataset.filter === filterType) {
-            btn.className = 'filter-btn px-3 py-1 text-sm font-medium text-white bg-blue-500 rounded-lg transition-colors';
+            btn.className = 'filter-btn flex-1 sm:flex-none px-3 sm:px-3 py-1 text-xs sm:text-sm font-medium text-white bg-blue-500 rounded-lg transition-colors';
         } else {
-            btn.className = 'filter-btn px-3 py-1 text-sm font-medium text-gray-600 bg-gray-100 hover:bg-gray-200 rounded-lg transition-colors';
+            btn.className = 'filter-btn flex-1 sm:flex-none px-3 sm:px-3 py-1 text-xs sm:text-sm font-medium text-gray-600 bg-gray-100 hover:bg-gray-200 rounded-lg transition-colors';
         }
     });
 }
