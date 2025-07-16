@@ -27,6 +27,6 @@ A clean and responsive To-Do List web application with persistent storage using 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/todo-list-app.git
+git clone https://github.com/Mosjdeed/todo-list-app.git
 ```
 2. Open index.html in your web browser
